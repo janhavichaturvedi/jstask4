@@ -1,0 +1,11 @@
+.form-group {
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+}
+
+button[type="submit"] {
+  margin-top: 10px;
+}
